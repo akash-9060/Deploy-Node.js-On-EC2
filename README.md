@@ -176,5 +176,5 @@ Your app is now production-ready 🚀
 
 ## 🤝 Connect With Me
 
-📬 [LinkedIn](www.linkedin.com/in/pratik-das-a47493231)  
+📬 www.linkedin.com/in/akash-chavan03
 💬 Open to discussions on AWS, Linux, Web App Hosting, and DevOps!
